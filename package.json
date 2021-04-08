@@ -1,0 +1,11 @@
+{
+  "name": "@oliveiiraa/isholiday",
+  "version": "1.0.0",
+  "description": "Api para saber se o dia informado é um feriado nacional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Oliveira",
+  "license": "ISC"
+}
