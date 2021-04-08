@@ -5,7 +5,7 @@ const isHoliday = (date)=> {
 
     const holiday = holidays.filter(i => i.date == date);
 
-    if (holiday) {
+    if (holiday.length > 0) {
         return { isHoliday: true, name: holiday[0].name }
     }
 

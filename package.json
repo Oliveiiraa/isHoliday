@@ -1,6 +1,6 @@
 {
   "name": "@oliveiiraa/isholiday",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Api para saber se o dia informado é um feriado nacional.",
   "main": "index.js",
   "scripts": {
