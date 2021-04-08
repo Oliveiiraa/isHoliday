@@ -1,7 +1,7 @@
 # isHoliday
 Pacote NPM para JS com o intuito de descobrir se o dia informado é um feriado nacional.
 
-### Como utilizar 📝
+## 📝 Como utilizar
 
 1. Instale o pacote via NPM
 
